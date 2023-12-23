@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Phat117
-- 👀 I’m interested in Coding, Copy Writting
+  ****Hi, I’m @Phat117****
+- 👀 Coding is everything.
 - 🌱 I’m currently learning C++, Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.facebook.com/ngtanphat1107
+- 📫 Reach me on: https://www.facebook.com/ngtanphat1107
 
 <!---
 Phat117/Phat117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
